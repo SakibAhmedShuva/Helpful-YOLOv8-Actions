@@ -16,8 +16,8 @@ This project demonstrates helpful actions using YOLOv8, primarily focusing on de
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SakibAhmedShuva/Helpful-YOLOV8-Actions.git
-   cd Helpful-YOLOV8-Actions
+   git clone https://github.com/SakibAhmedShuva/Helpful-YOLOv8-Actions.git
+   cd Helpful-YOLOv8-Actions
    ```
 
 2. Install the required dependencies:
