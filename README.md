@@ -1,6 +1,6 @@
 # Helpful YOLOv8 Actions
 
-This project demonstrates helpful actions using YOLOv8, primarily focusing on detecting and classifying various car parts in images and videos. It includes functionality for loading a pre-trained model, performing inference, and updating class labels.
+This repository demonstrates helpful actions using YOLOv8, primarily focusing on detecting and classifying various car parts in images and videos. It includes functionality for loading a pre-trained model, performing inference, and updating class labels.
 
 ## Table of Contents
 
