@@ -5,10 +5,7 @@ This repository demonstrates helpful actions using YOLOv8. It includes functiona
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
-- [Model Information](#model-information)
-- [Class Mapping](#class-mapping)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,11 +26,14 @@ This repository demonstrates helpful actions using YOLOv8. It includes functiona
 
 
 ## Features
-
+- Training YOLOv8 models
+- Multiple training options
+- Resume training from checkpoints
+- Model evaluation
 - Inference from a pretrained YOLOv8 model
 - Check labels of a pretrained YOLOv8 model
-- Modify label names
-- Save the revised model
+- Modify classes/labels
+- export the revised model
 
 ## Contributing
 
